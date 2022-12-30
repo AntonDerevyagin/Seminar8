@@ -1,0 +1,15 @@
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/bin/Debug/net7.0/Task60
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/bin/Debug/net7.0/Task60.deps.json
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/bin/Debug/net7.0/Task60.runtimeconfig.json
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/bin/Debug/net7.0/Task60.dll
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/bin/Debug/net7.0/Task60.pdb
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.csproj.AssemblyReference.cache
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.AssemblyInfoInputs.cache
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.AssemblyInfo.cs
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.csproj.CoreCompileInputs.cache
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.dll
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/refint/Task60.dll
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.pdb
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/Task60.genruntimeconfig.cache
+/Users/antonderevagin/Documents/Seminar8Dz/Task60/obj/Debug/net7.0/ref/Task60.dll
